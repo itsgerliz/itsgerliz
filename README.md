@@ -1,4 +1,5 @@
-Low-level enjoyer  
-Embrace simplicity and efficiency  
-Reject good-looking bullshit software  
-P.S. No I don't want AI in my fucking calendar
+# Who am I
+Learning systems programmer, love to know how things work and systems are developed
+
+# Reach me
+[germanrodriguezvillar@bonai.es] - [https://bonai.es/] (upcoming)
